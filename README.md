@@ -1,6 +1,6 @@
 ### Hi there, my name is Raymond. 👋
 
-I am currently looking for new opportunities.
+I'm frontend engineer with a passion for building beautiful UI/UX experiences. I love building things and working alongside an awesome group of people. I'm passionate about building apps for web and mobile that make a positive impact on the lives of people. Aside from coding, I also enjoy biking, hiking and hanging out with my dog.
 
 <!--
 **rayng86/rayng86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
