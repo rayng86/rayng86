@@ -3,7 +3,7 @@
 I am passionate about building beautiful UI/UX experiences through code. I love building things and working alongside an awesome group of people. I'm passionate about building apps for web and mobile that make a positive impact on the lives of people. Aside from coding, I also enjoy biking, hiking and hanging out with my dog.
 
 ## 🔭 Latest Updates
-I'm currently working on a project that showcases my experience in building web, mobile, and desktop applications using TypeScript/React, Next.js, Electron, and Capacitor.
+I'm currently working on a large monorepo project that showcases my experience in building web, mobile, and desktop applications using TypeScript/React, Next.js, Electron, and Capacitor.
 
 ## Technical skills
 
